@@ -1,11 +1,22 @@
-# Java Practice ☕
+# Java Practice Programs
 
-This repository contains my Java learning journey.
+This repository contains my daily Java practice programs while learning Java and Data Structures (DSA).
 
-## Programs
-- Hello World
+## Programs Completed
 
-## About Me
-- Learning Java from scratch
-- Exploring GitHub and development
-- Goal: Become a skilled software developer 🚀
+1. Hello World
+2. Calculator
+3. Largest of Three Numbers
+4. Sum of N Numbers
+5. Reverse Number
+6. Palindrome Number
+7. Factorial
+8. Fibonacci Series
+9. Largest Element in Array
+10. Second Largest Element
+11. Linear Search
+12. Sum of Array Elements
+
+## Goal
+
+To build strong programming and problem-solving skills.

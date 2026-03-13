@@ -17,6 +17,7 @@ This repository contains my daily Java practice programs while learning Java and
 11. Linear Search
 12. Sum of Array Elements
 13. Minimum Element in Array
+14. Average of Array Elements
 
 ## Goal
 

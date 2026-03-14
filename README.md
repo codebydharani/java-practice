@@ -18,6 +18,7 @@ This repository contains my daily Java practice programs while learning Java and
 12. Sum of Array Elements
 13. Minimum Element in Array
 14. Average of Array Elements
+15. Count Even and Odd Numbers in Array
 
 ## Goal
 

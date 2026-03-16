@@ -20,6 +20,7 @@ This repository contains my daily Java practice programs while learning Java and
 14. Average of Array Elements
 15. Count Even and Odd Numbers in Array
 16. Reverse an Array
+17. Find Duplicate Elements in Array
 
 ## Goal
 

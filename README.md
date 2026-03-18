@@ -22,6 +22,7 @@ This repository contains my daily Java practice programs while learning Java and
 16. Reverse an Array
 17. Find Duplicate Elements in Array
 18. Remove Duplicate Elements from Array
+19. MissingNumber in Array
 
 ## Goal
 

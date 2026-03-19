@@ -23,6 +23,7 @@ This repository contains my daily Java practice programs while learning Java and
 17. Find Duplicate Elements in Array
 18. Remove Duplicate Elements from Array
 19. MissingNumber in Array
+20. Duplicate finder using HashSet
 
 ## Goal
 

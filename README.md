@@ -25,6 +25,7 @@ This repository contains my daily Java practice programs while learning Java and
 19. MissingNumber in Array
 20. Duplicate finder using HashSet
 21. Find First non-repeating element using Hashmap
+22. Sum problem using hashmap
 
 ## Goal
 

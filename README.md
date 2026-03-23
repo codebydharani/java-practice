@@ -27,6 +27,7 @@ This repository contains my daily Java practice programs while learning Java and
 21. Find First non-repeating element using Hashmap
 22. Sum problem using hashmap
 23. Maxsubarray sum of size k using sliding window
+24. Longest substring without Repeating Characters
 
 ## Goal
 

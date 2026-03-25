@@ -29,6 +29,7 @@ This repository contains my daily Java practice programs while learning Java and
 23. Maxsubarray sum of size k using sliding window
 24. Longest substring without Repeating Characters
 25. Longest repeating character replacement using slidind window
+26. Binarysearch in sorted array
 
 ## Goal
 

@@ -30,6 +30,7 @@ This repository contains my daily Java practice programs while learning Java and
 24. Longest substring without Repeating Characters
 25. Longest repeating character replacement using slidind window
 26. Binarysearch in sorted array
+27. find first and last occurrence using binary search
 
 ## Goal
 

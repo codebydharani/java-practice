@@ -32,7 +32,8 @@ This repository contains my daily Java practice programs while learning Java and
 26. [First and Last Occurrence using Binary Search](FirstLastOccurrence.java)  
 27. [Aggressive Cows](AggressiveCows.java)
 28.  [Book Allocation Problem](BookAllocation.java)
-29.  
+29.  [Painter Partition Problem](PainterPartition.java)
+    
 ## Goal
 
 To build strong programming and problem-solving skills.

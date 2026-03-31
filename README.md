@@ -33,6 +33,7 @@ This repository contains my daily Java practice programs while learning Java and
 27. [Aggressive Cows](AggressiveCows.java)
 28.  [Book Allocation Problem](BookAllocation.java)
 29.  [Painter Partition Problem](PainterPartition.java)
+30.  [Fibonacci using Recursion](FibonacciRecursion.java)
     
 ## Goal
 

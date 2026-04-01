@@ -34,6 +34,7 @@ This repository contains my daily Java practice programs while learning Java and
 28.  [Book Allocation Problem](BookAllocation.java)
 29.  [Painter Partition Problem](PainterPartition.java)
 30.  [Fibonacci using Recursion](FibonacciRecursion.java)
+31.  [Print 1 to N using Recursion](Print1ToN.java)
     
 ## Goal
 

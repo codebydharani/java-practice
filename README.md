@@ -38,6 +38,7 @@ This repository contains my daily Java practice programs while learning Java and
 32.  [ Sum of N Numbers using Recursion](SumOfNRecursion.java)
 33.  [Palindrome String using Recursion](PalindromeRecursion.java)
 34.  [Subsets using Recursion](Subsets.java)
+35.  [Permutations using Recursion](Permutations.java)
     
 ## Goal
 

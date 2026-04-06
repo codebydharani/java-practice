@@ -39,6 +39,7 @@ This repository contains my daily Java practice programs while learning Java and
 33.  [Palindrome String using Recursion](PalindromeRecursion.java)
 34.  [Subsets using Recursion](Subsets.java)
 35.  [Permutations using Recursion](Permutations.java)
+36.  [N Queens Problem](NQueens.java)
     
 ## Goal
 

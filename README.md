@@ -40,6 +40,7 @@ This repository contains my daily Java practice programs while learning Java and
 34.  [Subsets using Recursion](Subsets.java)
 35.  [Permutations using Recursion](Permutations.java)
 36.  [N Queens Problem](NQueens.java)
+37.  [Linked List Basic Implementation](LinkedListBasic.java)
     
 ## Goal
 

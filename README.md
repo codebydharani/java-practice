@@ -41,6 +41,7 @@ This repository contains my daily Java practice programs while learning Java and
 35.  [Permutations using Recursion](Permutations.java)
 36.  [N Queens Problem](NQueens.java)
 37.  [Linked List Basic Implementation](LinkedListBasic.java)
+38.  [Reverse Linked List](ReverseLinkedList.java)
     
 ## Goal
 

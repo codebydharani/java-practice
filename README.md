@@ -43,6 +43,7 @@ This repository contains my daily Java practice programs while learning Java and
 37.  [Linked List Basic Implementation](LinkedListBasic.java)
 38.  [Reverse Linked List](ReverseLinkedList.java)
 39.  [Detect Cycle in Linked List](DetectCycle.java)
+40.  [Find Middle of Linked List](MiddleOfLinkedList)
     
 ## Goal
 

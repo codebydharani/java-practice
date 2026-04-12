@@ -45,6 +45,7 @@ This repository contains my daily Java practice programs while learning Java and
 39.  [Detect Cycle in Linked List](DetectCycle.java)
 40.  [Find Middle of Linked List](MiddleOfLinkedList.java)
 41.  [Remove Nth Node from End](RemoveNthNode.java)
+42.  [Merge Two Sorted Linked Lists](MergeTwoSortedLists.java)
     
 ## Goal
 

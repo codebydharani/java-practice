@@ -48,6 +48,7 @@ This repository contains my daily Java practice programs while learning Java and
 42.  [Merge Two Sorted Linked Lists](MergeTwoSortedLists.java)
 43.  [Intersection of Two Linked Lists](IntersectionLinkedList.java)
 44.  [Palindrome Linked List](PalindromeLinkedList.java)
+45.  [Add Two Numbers](AddTwoNumbers.java)
     
 ## Goal
 

@@ -51,6 +51,7 @@ This repository contains my daily Java practice programs while learning Java and
 45.  [Add Two Numbers](AddTwoNumbers.java)
 46.  [Odd Even Linked List](OddEvenLinkedList.java)
 47.  [Sort Linked List](SortLinkedList.java)
+48.  [Intersection of Two Linked Lists](IntersectionLinkedList.java)
     
 ## Goal
 

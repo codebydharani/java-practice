@@ -52,6 +52,7 @@ This repository contains my daily Java practice programs while learning Java and
 46.  [Odd Even Linked List](OddEvenLinkedList.java)
 47.  [Sort Linked List](SortLinkedList.java)
 48.  [Intersection of Two Linked Lists](IntersectionLinkedList.java)
+49.  [Reverse Nodes in K Group](ReverseKGroup.java)
     
 ## Goal
 

@@ -53,6 +53,7 @@ This repository contains my daily Java practice programs while learning Java and
 47.  [Sort Linked List](SortLinkedList.java)
 48.  [Intersection of Two Linked Lists](IntersectionLinkedList.java)
 49.  [Reverse Nodes in K Group](ReverseKGroup.java)
+50.  [LRU Cache](LRUCache.java)
     
 ## Goal
 

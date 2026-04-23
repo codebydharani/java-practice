@@ -56,6 +56,7 @@ This repository contains my daily Java practice programs while learning Java and
 50.  [LRU Cache](LRUCache.java)
 51.  [Binary Tree Inorder Traversal](InorderTraversal.java)
 52.  [Tree Traversals (Inorder, Preorder, Postorder)](TreeTraversals.java)
+53.  [Level Order Traversal](LevelOrder.java)
     
 ## Goal
 

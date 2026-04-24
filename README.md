@@ -57,6 +57,7 @@ This repository contains my daily Java practice programs while learning Java and
 51.  [Binary Tree Inorder Traversal](InorderTraversal.java)
 52.  [Tree Traversals (Inorder, Preorder, Postorder)](TreeTraversals.java)
 53.  [Level Order Traversal](LevelOrder.java)
+54.  [Maximum Depth of Binary Tree](MaxDepthTree.java)
     
 ## Goal
 

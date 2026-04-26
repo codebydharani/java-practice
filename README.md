@@ -59,6 +59,7 @@ This repository contains my daily Java practice programs while learning Java and
 53.  [Level Order Traversal](LevelOrder.java)
 54.  [Maximum Depth of Binary Tree](MaxDepthTree.java)
 55.  [Balanced Binary Tree](BalancedTree.java)
+56.  [Diameter of Binary Tree](DiameterTree.java)
     
 ## Goal
 

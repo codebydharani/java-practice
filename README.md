@@ -61,6 +61,7 @@ This repository contains my daily Java practice programs while learning Java and
 55.  [Balanced Binary Tree](BalancedTree.java)
 56.  [Diameter of Binary Tree](DiameterTree.java)
 57.  [Lowest Common Ancestor](LCA.java)
+58.  [Check if Two Trees are Identical](IdenticalTree.java)
     
 ## Goal
 

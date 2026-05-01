@@ -64,6 +64,7 @@ This repository contains my daily Java practice programs while learning Java and
 58.  [Check if Two Trees are Identical](IdenticalTree.java)
 59.  [Subtree of Another Tree](Subtree.java)
 60.  [Search in Binary Search Tree](SearchBST.java)
+61.  [Insert Node in BST](InsertBST.java)
     
 ## Goal
 

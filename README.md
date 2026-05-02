@@ -65,6 +65,7 @@ This repository contains my daily Java practice programs while learning Java and
 59.  [Subtree of Another Tree](Subtree.java)
 60.  [Search in Binary Search Tree](SearchBST.java)
 61.  [Insert Node in BST](InsertBST.java)
+62.  [Delete Node in BST](DeleteBST.java)
     
 ## Goal
 
